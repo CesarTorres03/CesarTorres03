@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CesarTorres03
-- 🌱 I’m currently learning "C, Html, Css, JS and SQL"
+- 🌱 I’m currently learning "C, PHP, Html, Css, JS and SQL"
 - 📫 How to reach me:
      <BR> https://www.linkedin.com/in/cesar-torres-2003
      <BR> cesartorres20022003@gmail.com
